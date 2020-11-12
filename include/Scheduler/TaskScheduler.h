@@ -5,6 +5,7 @@
 #include <thread>
 #include <deque>
 #include <atomic>
+#include <list>
 
 #include "Thread.h"
 #include "Task.h"
